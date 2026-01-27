@@ -34,27 +34,6 @@
                     "requests-2.32.5-py3-none-any.whl"
                 ]
             },
-            "transitive_dependencies_names_list": {
-                "eq": [
-                    "importlib_metadata-8.7.1-py3-none-any.whl",
-                    "itsdangerous-2.2.0-py3-none-any.whl",
-                    "sqlparse-0.5.5-py3-none-any.whl",
-                    "click-8.1.8-py3-none-any.whl",
-                    "werkzeug-3.1.5-py3-none-any.whl",
-                    "charset_normalizer-3.4.4-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
-                    "zipp-3.23.0-py3-none-any.whl",
-                    "certifi-2026.1.4-py3-none-any.whl",
-                    "typing_extensions-4.15.0-py3-none-any.whl",
-                    "asgiref-3.11.0-py3-none-any.whl",
-                    "colorama",
-                    "urllib3-2.6.3-py3-none-any.whl",
-                    "markupsafe-3.0.3-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
-                    "jinja2-3.1.6-py3-none-any.whl",
-                    "idna-3.11-py3-none-any.whl",
-                    "tzdata",
-                    "blinker-1.9.0-py3-none-any.whl"
-                ]
-            },
             "_comment_dependencies_names_list": "Optional. Check specific libraries in direct dependencies. Operators: eq (==), contains (all items from expected list in actual), in(all items from actual list in expected), nin(actual list does not contain provided libs). If not provided, this check will not be performed.",
             "validate_agent_versions": true,
             "expected_agent_version": "",
